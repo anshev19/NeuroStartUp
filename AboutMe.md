@@ -1,0 +1,1 @@
+My name is Alex. I'm learning java for several months. It's interesting enought.
